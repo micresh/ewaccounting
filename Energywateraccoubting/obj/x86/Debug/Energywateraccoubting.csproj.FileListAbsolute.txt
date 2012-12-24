@@ -1,0 +1,16 @@
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\bin\Debug\Energywateraccoubting.exe.config
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\bin\Debug\Energywateraccoubting.exe
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\bin\Debug\Energywateraccoubting.pdb
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.buildings.resources
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.CWcounters.resources
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.EEcounters.resources
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.flats.resources
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.HWcounters.resources
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.mainform.resources
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.Properties.Resources.resources
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.Tempcounters.resources
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.exe
+C:\projects\c#\Energywateraccoubting\Energywateraccoubting\obj\x86\Debug\Energywateraccoubting.pdb
